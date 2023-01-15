@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tes</string>
+    <string name="retry">Retry</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="select_user">Select User Name</string>
+    <string name="choose">Choose a User</string>
+</resources>
